@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS crowdfund_db;
-CREATE DATABASE crowdfund_db;
+DROP DATABASE IF EXISTS techtalkblog_db;
+CREATE DATABASE techtalkblog_db;
 
-USE crowdfund_db;
+USE techtalkblog_db;
