@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Agreed",
+      "description": "JavaScript is pretty cool",
+      "post_id": "1"
+    },
+    {
+      "title": "I'd play!",
+      "description": "That quiz sounds great! I'd love to try it out",
+      "post_id": "2"
+    },
+    {
+      "title": "Struggle is Real",
+      "description": "Yeah, the handlebars struggle is real, but somewhat convenient when you understand it.",
+      "post_id": "3"
+    }
+  ]
+  
